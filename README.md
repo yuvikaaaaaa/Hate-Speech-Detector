@@ -1,4 +1,4 @@
-# Hate Speech Detector
+# SafeSpeech AI
 
 ML system to detect hate speech in text using NLP and Machine Learning.
 
