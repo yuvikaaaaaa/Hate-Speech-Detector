@@ -22,7 +22,7 @@ streamlit run app.py
 - Trained on labeled tweet dataset
 - 85%+ accuracy
 - TF-IDF with bigrams for feature extraction
-```
+
 
    - Click **"Commit changes"** (green button)
 
